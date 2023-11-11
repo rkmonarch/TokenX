@@ -1,7 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TokenX
+It provides an interactive no-code platform that allows users to create a NFT collection on XDC network. TokenX empowers creators to build thriving web3 communities on XDC network. We desire to provide a launchpad that simplifies community, monetization, and growth. It also provides a developer tool to airdrop NFTs in batches just by providing a recipients list. This is powerful and enhances the adaptability of an easy-to-go launchpad.
+
+
+## Flowchart
+![Flowchart](https://github.com/rkmonarch/TokenX/assets/89126159/f782b6f5-cf2f-4d27-b2d5-c762a416f47c)
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
